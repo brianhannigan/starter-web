@@ -18,3 +18,6 @@ Sample website with plenty of files for demosSample website with plenty of files
 
 ## Future Enhancements
 ample website with plenty of files for
+
+### Copyright
+2015
