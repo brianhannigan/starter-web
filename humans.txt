@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    Brian Hannigan   Software Engineer  brianhannigan
     <name> -- <role> -- <twitter>
 
 # THANKS
