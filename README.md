@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 Sample website with plenty of files for demosSample website with plenty of files for demos
+
+## Future Enhancements
+ample website with plenty of files for
