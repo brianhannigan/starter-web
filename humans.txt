@@ -3,11 +3,12 @@
 
 # TEAM
     Brian Hannigan   Software Engineer  brianhannigan
+	
     <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    To all my students!
 
 # TECHNOLOGY COLOPHON
 
