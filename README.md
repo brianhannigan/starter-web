@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 TESTING readme here rebaseing, more changes from my feature branch 2
+Updating for emergency fix after stashing
 
 ## Introduction
 Sample website with plenty of files for demos
